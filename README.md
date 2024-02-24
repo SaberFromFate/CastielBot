@@ -1,0 +1,2 @@
+# CastielBot
+Discord bot
